@@ -11,8 +11,3 @@ panels.forEach((panel) => {
     panel.classList.add("active");
   });
 });
-// panels.forEach((panel) => {
-//   panel.addEventListener("click", (e) => {
-//     panel.classList.remove("active");
-//   });
-// });
